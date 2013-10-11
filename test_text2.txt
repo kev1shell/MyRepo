@@ -5,3 +5,7 @@ Date  : 10/11/2013
 Hello, this is text_test2. This text document is intended to help me learn about Github.
 Here I have typed a few lines of text. Now I will see what happens when i create changes.
 Changes will be documented in this file, to help keep track.
+
+//Change 1:
+This is the first change. Here I have added a few more lines of text.
+Perhaps this will help me understand Git and Github a little better.

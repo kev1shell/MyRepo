@@ -9,3 +9,7 @@ Changes will be documented in this file, to help keep track.
 //Change 1:
 This is the first change. Here I have added a few more lines of text.
 Perhaps this will help me understand Git and Github a little better.
+
+//Change 2:
+This is the second Change. I'm going to make a new branch with this new change.
+The previous branch is not intended to have this change.

@@ -1,0 +1,7 @@
+text_test2
+Author: Kevin Shell
+Date  : 10/11/2013
+
+Hello, this is text_test2. This text document is intended to help me learn about Github.
+Here I have typed a few lines of text. Now I will see what happens when i create changes.
+Changes will be documented in this file, to help keep track.
